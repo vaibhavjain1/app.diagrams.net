@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T11:58:48.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KpH0Kew57iqEQZ7B0kJ_" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-12T12:02:33.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oiFjH76G8OwCJHeonH8s" version="24.4.0" type="github" pages="3">
   <diagram id="ZpmE9swS8s1LabDZddnP" name="Whatsapp/Chat Messanger">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tCE8hqf6MEfBrv9gHOXg-13" value="Service Discovery" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="805" y="251" width="140" height="30" as="geometry" />
+          <mxGeometry x="805" y="250" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tCE8hqf6MEfBrv9gHOXg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" parent="1" source="tCE8hqf6MEfBrv9gHOXg-19" target="tCE8hqf6MEfBrv9gHOXg-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -232,6 +232,25 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="189" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nmRgIuXKoeiEjBjeD90D-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=16;fontColor=#000000;" edge="1" parent="JEjzlFw6t6a2NhCm18pd-1" target="nmRgIuXKoeiEjBjeD90D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649" y="182" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmRgIuXKoeiEjBjeD90D-1" value="Authentication done" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="JEjzlFw6t6a2NhCm18pd-1" source="nmRgIuXKoeiEjBjeD90D-2" target="nmRgIuXKoeiEjBjeD90D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmRgIuXKoeiEjBjeD90D-2" value="Authentication Service" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="JEjzlFw6t6a2NhCm18pd-1">
+          <mxGeometry x="791" y="181" width="169" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="nmRgIuXKoeiEjBjeD90D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="JEjzlFw6t6a2NhCm18pd-1" source="nmRgIuXKoeiEjBjeD90D-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmRgIuXKoeiEjBjeD90D-4" value="Service Discovery" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="JEjzlFw6t6a2NhCm18pd-1">
+          <mxGeometry x="805" y="251" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
