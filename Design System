@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T17:20:11.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WyFqh0BI61UX0GvQasC1" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-12T18:10:32.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="R1qEvZbeS1Rnmx3koNlS" version="24.4.0" type="github" pages="3">
   <diagram id="ZpmE9swS8s1LabDZddnP" name="Whatsapp/Chat Messanger">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,6 +15,11 @@
         </mxCell>
         <mxCell id="tCE8hqf6MEfBrv9gHOXg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" parent="1" source="tCE8hqf6MEfBrv9gHOXg-4" target="tCE8hqf6MEfBrv9gHOXg-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2KXHEUay2FT1rz5UZ9S-1" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCE8hqf6MEfBrv9gHOXg-30">
+          <mxGeometry x="-0.2414" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tCE8hqf6MEfBrv9gHOXg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="110" height="120" as="geometry" />
@@ -98,6 +103,11 @@
               <mxPoint x="320" y="290" />
               <mxPoint x="320" y="265" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SSOqYbQjimz1EUw8CvrI-1" value="XMPP/TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCE8hqf6MEfBrv9gHOXg-33">
+          <mxGeometry x="0.2475" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tCE8hqf6MEfBrv9gHOXg-35" value="To store local messages especially in offline mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
@@ -188,6 +198,11 @@
         <mxCell id="U08PJLU9lS9YtC-txUqM-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.005;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="JEjzlFw6t6a2NhCm18pd-1" source="U08PJLU9lS9YtC-txUqM-1" target="U08PJLU9lS9YtC-txUqM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-_NhU1SxsBvOPbosuFTN-1" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U08PJLU9lS9YtC-txUqM-0">
+          <mxGeometry x="-0.2925" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U08PJLU9lS9YtC-txUqM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="JEjzlFw6t6a2NhCm18pd-1">
           <mxGeometry x="150" y="200" width="110" height="120" as="geometry" />
         </mxCell>
@@ -227,8 +242,12 @@
             <mxPoint x="580" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="290" />
-              <mxPoint x="320" y="265" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3cc7mTL13khyCDW1kv4i-0" value="XMPP/TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U08PJLU9lS9YtC-txUqM-11">
+          <mxGeometry x="0.0596" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U08PJLU9lS9YtC-txUqM-12" value="To store local messages especially in offline mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="JEjzlFw6t6a2NhCm18pd-1">
