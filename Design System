@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T06:40:49.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uhQNf0kY5HKgWGxR8XpX" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-13T07:03:32.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mwKCNg7zqXUTPEeu72mB" version="24.4.0" type="github" pages="4">
   <diagram id="ZpmE9swS8s1LabDZddnP" name="Whatsapp/Chat Messanger">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -269,19 +269,13 @@
             <mxPoint x="649" y="182" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmRgIuXKoeiEjBjeD90D-1" value="Authentication done" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=none;" parent="JEjzlFw6t6a2NhCm18pd-1" source="nmRgIuXKoeiEjBjeD90D-2" target="nmRgIuXKoeiEjBjeD90D-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nmRgIuXKoeiEjBjeD90D-1" value="Authentication done" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;fontColor=#000000;labelBackgroundColor=none;" parent="JEjzlFw6t6a2NhCm18pd-1" source="nmRgIuXKoeiEjBjeD90D-2" target="U08PJLU9lS9YtC-txUqM-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="251" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nmRgIuXKoeiEjBjeD90D-2" value="Authentication Service" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" parent="JEjzlFw6t6a2NhCm18pd-1" vertex="1">
           <mxGeometry x="791" y="181" width="169" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="nmRgIuXKoeiEjBjeD90D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" parent="JEjzlFw6t6a2NhCm18pd-1" source="nmRgIuXKoeiEjBjeD90D-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="265" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nmRgIuXKoeiEjBjeD90D-4" value="Service Discovery" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" parent="JEjzlFw6t6a2NhCm18pd-1" vertex="1">
-          <mxGeometry x="805" y="251" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ptdj-PpZZd7gTvsX4c2O-0" value="Api Gateway/ Proxy Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JEjzlFw6t6a2NhCm18pd-1" vertex="1">
           <mxGeometry x="297" y="141" width="100" height="30" as="geometry" />
@@ -380,6 +374,18 @@
           <mxGeometry x="0.597" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rvosb_dNKXYOBjgcmlmi-0" value="Image Service" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="JEjzlFw6t6a2NhCm18pd-1">
+          <mxGeometry x="791" y="259" width="169" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvosb_dNKXYOBjgcmlmi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.004;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JEjzlFw6t6a2NhCm18pd-1" source="Rvosb_dNKXYOBjgcmlmi-0" target="U08PJLU9lS9YtC-txUqM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvosb_dNKXYOBjgcmlmi-2" value="CDN" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="JEjzlFw6t6a2NhCm18pd-1">
+          <mxGeometry x="841" y="417.71" width="60" height="35.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvosb_dNKXYOBjgcmlmi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.583;exitY=0.065;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="JEjzlFw6t6a2NhCm18pd-1" source="Rvosb_dNKXYOBjgcmlmi-2" target="Rvosb_dNKXYOBjgcmlmi-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
