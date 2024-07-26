@@ -563,11 +563,29 @@
         <mxCell id="DBjggpfIbadJkz665lRF-7" value="CDN" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="1">
           <mxGeometry x="1070" y="137" width="68" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BvUEJH1B-gipkZiDQG5U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvUEJH1B-gipkZiDQG5U-1" target="BvUEJH1B-gipkZiDQG5U-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BvUEJH1B-gipkZiDQG5U-1" value="Completion Queue" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;labelBackgroundColor=#FFFFFF;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="790" y="256" width="87" height="30" as="geometry" />
+          <mxGeometry x="784" y="300" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BvUEJH1B-gipkZiDQG5U-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pbMLyX-JwEX--z3Dh3OP-9" target="BvUEJH1B-gipkZiDQG5U-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvUEJH1B-gipkZiDQG5U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvUEJH1B-gipkZiDQG5U-3" target="BvUEJH1B-gipkZiDQG5U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvUEJH1B-gipkZiDQG5U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvUEJH1B-gipkZiDQG5U-3" target="BvUEJH1B-gipkZiDQG5U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvUEJH1B-gipkZiDQG5U-3" value="Completion Handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="285" width="76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvUEJH1B-gipkZiDQG5U-4" value="Metadata Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="226" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvUEJH1B-gipkZiDQG5U-5" value="Metadata Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="330" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
