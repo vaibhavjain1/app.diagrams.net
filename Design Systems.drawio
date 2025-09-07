@@ -75,13 +75,13 @@
           <mxGeometry x="478" y="241.5" width="60" height="198.5" as="geometry" />
         </mxCell>
         <mxCell id="ewhb513AnXxoGItvE4dK-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="183" y="361" width="50" height="45" as="geometry" />
+          <mxGeometry x="183" y="397" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ewhb513AnXxoGItvE4dK-23" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#000000;gradientColor=none;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="227" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ewhb513AnXxoGItvE4dK-24" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="163" y="277" width="30" height="60" as="geometry" />
+          <mxGeometry x="193" y="303" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ewhb513AnXxoGItvE4dK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" parent="1" source="ewhb513AnXxoGItvE4dK-26" target="ewhb513AnXxoGItvE4dK-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="h_y8U_LoF2xofD90duV6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ewhb513AnXxoGItvE4dK-56" target="ewhb513AnXxoGItvE4dK-59">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ImtklA3KLrmnSo-fg5s-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="483" y="397" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
