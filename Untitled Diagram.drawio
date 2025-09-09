@@ -155,9 +155,14 @@
             <mxPoint x="820" y="342" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W15dqPmCkVGQ48eSo52e-49" value="Logout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W15dqPmCkVGQ48eSo52e-48" vertex="1" connectable="0">
+        <mxCell id="W15dqPmCkVGQ48eSo52e-49" value="&lt;div&gt;Timed out&amp;nbsp;&lt;/div&gt;&lt;div&gt;show offline&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W15dqPmCkVGQ48eSo52e-48" vertex="1" connectable="0">
           <mxGeometry x="0.3119" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vfAhWbbk16HggEMmuPm2-1" value="Connection mad&lt;div&gt;show online&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W15dqPmCkVGQ48eSo52e-48">
+          <mxGeometry x="-0.4656" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-50" value="Presence Server" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
