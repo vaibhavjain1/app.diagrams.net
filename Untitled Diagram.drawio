@@ -66,13 +66,13 @@
           <mxGeometry x="518" y="281.5" width="60" height="198.5" as="geometry" />
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="223" y="437" width="50" height="45" as="geometry" />
+          <mxGeometry x="223" y="458" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-21" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#000000;gradientColor=none;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="240" y="267" width="30" height="50" as="geometry" />
+          <mxGeometry x="233" y="281" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W15dqPmCkVGQ48eSo52e-22" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="233" y="343" width="30" height="60" as="geometry" />
+        <mxCell id="W15dqPmCkVGQ48eSo52e-22" value="User 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="233" y="357" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;" parent="1" source="W15dqPmCkVGQ48eSo52e-24" target="W15dqPmCkVGQ48eSo52e-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +112,7 @@
         <mxCell id="W15dqPmCkVGQ48eSo52e-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;" parent="1" source="W15dqPmCkVGQ48eSo52e-37" target="W15dqPmCkVGQ48eSo52e-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W15dqPmCkVGQ48eSo52e-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;labelBackgroundColor=#FFFFFF;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="W15dqPmCkVGQ48eSo52e-37" value="Queue of user 2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;labelBackgroundColor=#FFFFFF;strokeWidth=2;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="643" y="693" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-38" value="10. No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;" parent="1" source="W15dqPmCkVGQ48eSo52e-41" target="W15dqPmCkVGQ48eSo52e-42" edge="1">
@@ -241,7 +241,7 @@
           <mxGeometry x="510" y="550" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-66" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Server 4&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;strokeColor=#000000;strokeWidth=2;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="750" y="577" width="60" height="50" as="geometry" />
+          <mxGeometry x="808" y="577" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W15dqPmCkVGQ48eSo52e-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="W15dqPmCkVGQ48eSo52e-43" target="W15dqPmCkVGQ48eSo52e-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -249,7 +249,7 @@
             <mxPoint x="710" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W15dqPmCkVGQ48eSo52e-69" value="Websocket connection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W15dqPmCkVGQ48eSo52e-68" vertex="1" connectable="0">
+        <mxCell id="W15dqPmCkVGQ48eSo52e-69" value="Websocket&lt;div&gt;connection&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W15dqPmCkVGQ48eSo52e-68" vertex="1" connectable="0">
           <mxGeometry x="-0.0125" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
